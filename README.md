@@ -1,6 +1,19 @@
 # Scripts for MaxPatrol VM
 
-## sanitmpvmlogs.py
+## ptvm.py 👀
+
+### About
+
+A slightly modified library for MaxPatrol VM API. 
+Added a function for exporting a .csv file with vulnerabilities.
+Original can be found in:
+```url
+https://addons.ptsecurity.com/ptvm-sdk
+https://gitlab.com/bsploit/ptvm_sdk/
+```
+
+
+## sanitmpvmlogs.py 👀
 
 ### About
 

@@ -5,3 +5,6 @@
 !README.md
 !LICENSE.md
 !sanitmpvmlogs.py
+
+!api/
+!api/ptvm.py
